@@ -1,4 +1,5 @@
 {
+  "alias": "badges.reactnative.guide",
   "env": {
     "GA_CLIENT_ID": "@ga-client-id",
     "GA_PRIVATE_KEY_ID": "@ga-private-key-id",
