@@ -10,3 +10,9 @@ by querying Google analytics
 How does this work? : Blog post here: https://medium.com/google-cloud/displaying-google-analytics-metrics-in-your-readme-2ce45fb7ea76
 
 Using Zeit now for hosting the microservice.
+
+Make sure following env settings are present before deploying:
+
+- ga-client-id
+- ga-private-key-id
+- ga-private-key

@@ -3,7 +3,8 @@
   "description": "Page views Badge generator",
   "scripts": {
     "lint": "eslint .",
-    "start": "micro"
+    "start": "micro",
+    "deploy": "now -e NODE_ENV=production && now alias"
   },
   "main": "index.js",
   "dependencies": {
