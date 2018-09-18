@@ -4,5 +4,6 @@
     "GA_CLIENT_ID": "@ga-client-id",
     "GA_PRIVATE_KEY_ID": "@ga-private-key-id",
     "GA_PRIVATE_KEY": "@ga-private-key"
-  }
+  },
+  "name": "ga-badge-generator-rnbook"
 }
