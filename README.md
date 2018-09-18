@@ -15,4 +15,6 @@ Make sure following env settings are present before deploying:
 
 - ga-client-id
 - ga-private-key-id
-- ga-private-key
+- ga-private-key (base64 encoded private key)
+
+The values are in google drive of Atul
