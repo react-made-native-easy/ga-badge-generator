@@ -4,9 +4,9 @@
   "scripts": {
     "lint": "eslint .",
     "start": "micro",
-    "deploy": "now -e NODE_ENV=production && vercel alias"
+    "deploy": "vercel --prod"
   },
-  "main": "index.js",
+  "main": "api/index.js",
   "dependencies": {
     "atob": "^2.1.2",
     "googleapis": "^59.0.0",
@@ -17,10 +17,11 @@
   "devDependencies": {
     "eslint": "^7.7.0",
     "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-plugin-import": "^2.22.0"
+    "eslint-plugin-import": "^2.22.0",
+    "vercel": "^19.2.0"
   },
   "engines": {
-    "node": "14.x"
+    "node": "12.x"
   },
   "private": true
 }

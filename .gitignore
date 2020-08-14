@@ -2,3 +2,4 @@ node_modules
 *.log
 credentials.json
 .vscode
+.vercel

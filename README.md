@@ -3,9 +3,9 @@
 This microservice generates realtime github repo badges for the reactnative.guide book
 by querying Google analytics
 
-![Total Users](https://badges.reactnative.guide/users)
+![Total Users](https://badges.reactnative.guide/api?type=users)
 
-![Total Page Views](https://badges.reactnative.guide/pageviews)
+![Total Page Views](https://badges.reactnative.guide/api?type=pageviews)
 
 How does this work? : Blog post here: https://medium.com/google-cloud/displaying-google-analytics-metrics-in-your-readme-2ce45fb7ea76
 
