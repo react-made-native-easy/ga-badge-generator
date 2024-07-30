@@ -1,7 +1,7 @@
 {
   "env": {
-    "GA_CLIENT_ID": "@ga-client-id",
-    "GA_PRIVATE_KEY_ID": "@ga-private-key-id",
-    "GA_PRIVATE_KEY": "@ga-private-key"
+    "GA_CLIENT_ID": "@GA_CLIENT_ID",
+    "GA_PRIVATE_KEY_ID": "@GA_PRIVATE_KEY",
+    "GA_PRIVATE_KEY": "@GA_PRIVATE_KEY_ID"
   }
 }
