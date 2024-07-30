@@ -4,7 +4,7 @@ const redirect = require('micro-redirect');
 const atob = require('atob');
 
 const START_DATE = '2017-12-01';
-
+console.log(process.env, "ENV")
 const gaServiceAccount = {
   type: 'service_account',
   project_id: 'rnbook-analytics',
