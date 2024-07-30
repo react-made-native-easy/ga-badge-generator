@@ -20,8 +20,5 @@
     "eslint-plugin-import": "^2.22.0",
     "vercel": "^19.2.0"
   },
-  "engines": {
-    "node": "12.x"
-  },
   "private": true
 }
